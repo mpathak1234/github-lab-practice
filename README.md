@@ -4,3 +4,6 @@ Learning collaborative Git workflows
 
 ## Features
 · Profile page with personal information
+
+## Features
+Profile page with personal information
