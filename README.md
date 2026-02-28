@@ -8,3 +8,6 @@ Learning collaborative Git workflows
 
 ## Project Status
 In active development
+
+## Project Status
+In active development
